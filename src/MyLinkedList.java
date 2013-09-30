@@ -1,8 +1,12 @@
 import java.util.*;
 
 public class MyLinkedList {
+
 	//parham
 	//Sudi add something
+	//parham 2
+	//Sudi
+
 	//test
 	//printMe method
 	private static void printMe(List<String> l){

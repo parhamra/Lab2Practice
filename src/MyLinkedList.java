@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class MyLinkedList {
-	//parham
+	//parham 2
 	//Sudi
 	//test
 	//printMe method

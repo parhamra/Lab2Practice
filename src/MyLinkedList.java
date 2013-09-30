@@ -2,6 +2,7 @@ import java.util.*;
 
 public class MyLinkedList {
 	//parham
+	//Sudi
 	//test
 	//printMe method
 	private static void printMe(List<String> l){

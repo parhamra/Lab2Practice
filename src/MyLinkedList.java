@@ -2,7 +2,7 @@ import java.util.*;
 
 public class MyLinkedList {
 	//parham
-	//Sudi
+	//Sudi add something
 	//test
 	//printMe method
 	private static void printMe(List<String> l){
